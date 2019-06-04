@@ -1,0 +1,34 @@
+server listener
+
+    parse xml
+
+    gen class
+
+    if token
+        argv[0]
+
+
+    class
+         gen token
+
+         fibinachi function
+
+    gen xml
+
+    send to client
+
+ contain db with token keys
+
+
+Client
+
+    listener
+
+    func (*args) #take token and command
+        token
+
+        the commands will be gen class
+
+    send to client
+
+
